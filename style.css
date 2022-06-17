@@ -1,0 +1,10 @@
+/* CSS Document */
+.mtd {text-align:center; background-color:#FFFFFF; border-color:#003333 ;font-family:"Courier New"}
+.menu {border:thin; border-color:#666666}
+.tblmain{border:thin; border-color:#CC9966}
+.tdmain {background-color:#FFFF99;text-align:center; font-family:"Courier New", Courier, monospace;font-size:16px;border-color:#FFCC99}
+.a:hover{ text-decoration:none; color:#99CC00; font-style:italic}
+.astyle{text-decoration:none; font-family:Geneva, Arial, Helvetica, sans-serif; font-size:16px;color:#FFCC66}
+.h4class{ color:#CCCC33; font-family:"Bookman Old Style";}
+.h5class{color:#FFCC66; font-family:"Arial Narrow"}
+.pclass{color:#666666;font-family:"Georgia"; font-size:16px}
